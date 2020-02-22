@@ -7,6 +7,10 @@
 | 9:00 | Intro |
 | 9:10 | Names |
 
+@snapend
+
+@snap[east span-50]
+
 ### Afternoon
 
 | Time | Event      |
