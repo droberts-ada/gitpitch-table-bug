@@ -1,3 +1,5 @@
+@snap[west span-50]
+
 ### Morning
 
 Time | Event
@@ -10,3 +12,5 @@ Time | Event
 ---  | ---
 1:00 | Volleyball
 1:30 | Backgammon
+
+@snapend
